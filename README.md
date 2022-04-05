@@ -6,6 +6,8 @@
   </a>
 </div>
 
+FORK DO V4P0R - Ajustado por mim 
+
 Baixe seus cursos e assista offline em dispositivos que não suportam a aplicação Alura ou em zonas de bloqueio de dns como em seu trabalho ou escola. Ou seja, em qualquer lugar!
 
 ![demo](https://i.imgur.com/O0KC1iE.png)
@@ -16,16 +18,16 @@ Baixe seus cursos e assista offline em dispositivos que não suportam a aplicaç
 
 # Instalação
 
-Download direto [here](https://github.com/v4p0r/gengar/archive/master.zip)
+Download direto [here](https://github.com/marcosdsdba/alura-gap/archive/refs/heads/master.zip)
 
-Você pode baixar o gengar clonando o [repositório](https://github.com/v4p0r/gengar)
+Você pode baixar o gengar clonando o [repositório](https://github.com/marcosdsdba/alura-gap.git)
 
-    $ git clone https://github.com/v4p0r/gengar.git
+    $ git clone https://github.com/marcosdsdba/alura-gap.git
 
 # Usar
-Antes de seguir o processo abaixo edite o .env
+### Antes de seguir o processo abaixo edite o .env
 
-    $ cd gengar
+    $ cd alura-gap
     $ npm install
     $ node index.js
 
@@ -44,4 +46,8 @@ Antes de seguir o processo abaixo edite o .env
 
 
 # Considerações & Alerta
-Baseado no [projeto](https://github.com/reinaldomoreira/alura-video-scrapper) do [reinaldomoreira](https://github.com/reinaldomoreira), foi apenas para testar meus conhecimentos na área, os desenvolvedores não assumem nenhuma responsabilidade e não são responsáveis ​​por qualquer uso indevido
+Baseado no [projeto](https://github.com/reinaldomoreira/alura-video-scrapper) do [reinaldomoreira](https://github.com/reinaldomoreira), fiz um fork e ajustei do V4p0R.
+
+Abraço e bom uso,
+
+Marcos.
