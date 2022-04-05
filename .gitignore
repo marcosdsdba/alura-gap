@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+.env
+tdd-com-python/
+testes automatizados - tdd com python/
+tdd-com-python-tst-1/
